@@ -20,3 +20,9 @@ In this user has to upload a Image File, and after that user will select the tex
 ![1](https://user-images.githubusercontent.com/82642783/225103140-d264a5cb-d2bc-4900-9866-3b2953902827.png)
 ![2](https://user-images.githubusercontent.com/82642783/225103157-b2c335d5-dcf6-4671-aabb-4052b4a2a151.png)
 ![3](https://user-images.githubusercontent.com/82642783/225103174-a570e8e4-3a4c-4171-b2a1-fff42a1fb8df.png)
+
+
+<br /> <br />
+If you have some suggestions related to the code, you can contact me on <br/>
+Email : adijha2905@gmail.com <br/>
+LinkedIn : https://www.linkedin.com/in/aditya-jha-727029204/ <br/>
